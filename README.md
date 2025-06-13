@@ -1,16 +1,8 @@
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Oracle_logo.png" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/en/c/ce/Temasek_Polytechnic_crest.png" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/en/2/29/University_of_Leeds_Logo.svg" height="40" />
-</p>
-
----
 
 # 👋 Hey, I'm Hafeezah
 
 🎓 I'm an aspiring AI and software engineer from **Singapore**, soon to begin my **BSc in Computer Science** at the **University of Leeds (UK)**.  
-🎯 I hold a **Diploma in Applied Artificial Intelligence** from **Temasek Polytechnic**, and have real-world experience through a 1-year internship at **Oracle**.
+I hold a **Diploma in Applied Artificial Intelligence** from **Temasek Polytechnic**
 
 ---
 
@@ -19,7 +11,7 @@
 - 📚 Incoming CS undergrad @ University of Leeds (2025)
 - 🧠 Diploma in Applied Artificial Intelligence – Temasek Polytechnic
 - 💼 1-year internship at Oracle (Application Solution Engineer)
-- 🤖 Passionate about AI, NLP, and building impactful, ethical tech
+- 🤖 Passionate about AI, NLP, and building impactful systems
 - 🌍 Exploring career paths in the tech/AI space in both **Singapore** and the **UK**
 
 ---
