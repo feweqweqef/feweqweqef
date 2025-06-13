@@ -25,7 +25,7 @@ I also hold a Diploma in Applied Artificial Intelligence from Temasek Polytechni
 
 ---
 
-## 🏆 Hackathon Highlights
+## 🏆 HackathonS
 
 - 🥈 **2nd Place** – IITSC x ASC Hackathon, Temasek Polytechnic  
 - 🏅 **Finalist** – Oracle MADHacks Hackathon
