@@ -45,6 +45,3 @@ I also hold a Diploma in Applied Artificial Intelligence from Temasek Polytechni
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ---
-
-> 💬 Feel free to reach out — I’m always open to connect, collaborate, or learn together.
-
