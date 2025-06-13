@@ -1,8 +1,8 @@
 
 # 👋 Hey, I'm Hafeezah
 
-🎓 I'm an aspiring AI and software engineer from **Singapore**, soon to begin my **BSc in Computer Science** at the **University of Leeds (UK)**.  
-I hold a **Diploma in Applied Artificial Intelligence** from **Temasek Polytechnic**
+I'm an aspiring AI and software engineer from Singapore, soon to begin my BSc in Computer Science at the University of Leeds (UK).  
+I also hold a Diploma in Applied Artificial Intelligence from Temasek Polytechnic
 
 ---
 
@@ -25,10 +25,10 @@ I hold a **Diploma in Applied Artificial Intelligence** from **Temasek Polytechn
 `Scikit-learn` | `TensorFlow (basic)` | `NLP fundamentals`
 
 **Cloud & DevOps:**  
-`Oracle Cloud (OCI Certified)` | `AWS (EC2, S3, Lambda)` | `Git & GitHub` | `Docker (basic)`
+`Oracle Cloud (OCI Certified)` | `AWS (EC2, S3, Lambda)`
 
 **Other:**  
-`Oracle APEX` | `Streamlit` | `Agile teamwork` | `UI Prototyping`
+`Oracle APEX` | `Streamlit` | `Agile teamwork` | `UI/UX Prototyping`
 
 ---
 
