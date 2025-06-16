@@ -8,11 +8,11 @@ I also hold a Diploma in Applied Artificial Intelligence from Temasek Polytechni
 
 ## 🔍 About Me
 
-- 📚 Incoming CS undergrad @ University of Leeds (2025)
-- 🧠 Diploma in Applied Artificial Intelligence – Temasek Polytechnic
-- 💼 1-year internship at Oracle (Application Solution Engineer)
-- 🤖 Passionate about AI, NLP, and building impactful systems
-- 🌍 Exploring career paths in the tech/AI space in both **Singapore** and the **UK**
+-  Incoming CS undergrad @ University of Leeds (2025)
+-  Diploma in Applied Artificial Intelligence – Temasek Polytechnic
+-  1-year internship at Oracle (Application Solution Engineer)
+-  Passionate about AI, NLP, and building impactful systems
+-  Exploring career paths in the tech/AI space in both **Singapore** and the **UK**
 
 ---
 
