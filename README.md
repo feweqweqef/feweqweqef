@@ -6,22 +6,22 @@ I also hold a Diploma in Applied Artificial Intelligence from Temasek Polytechni
 
 ---
 
-## 🔍 About Me
+##  About Me
 
 -  Incoming CS undergrad @ University of Leeds (2025)
 -  Diploma in Applied Artificial Intelligence – Temasek Polytechnic
 -  1-year internship at Oracle (Application Solution Engineer)
 -  Passionate about AI, NLP, and building impactful systems
--  Exploring career paths in the tech/AI space in both **Singapore** and the **UK**
+-  Exploring career paths in the tech/AI space in both Singapore and the UK
 
 ---
 
-## 📜 Certifications
+## Certifications
 
-- ✅ Oracle Cloud Infrastructure (OCI) Foundations Associate  
-- ✅ Oracle APEX Developer Certified Specialist  
-- ✅ Oracle AI Fundamentals  
-- 🟡 AWS Proficiency (EC2, S3, Lambda)
+- Oracle Cloud Infrastructure (OCI) Foundations Associate  
+- Oracle APEX Developer Certified Specialist  
+- Oracle AI Fundamentals  
+- AWS Proficiency (EC2, S3, Lambda)
 
 ---
 
