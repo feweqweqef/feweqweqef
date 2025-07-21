@@ -3,9 +3,7 @@
 
 I'm an aspiring AI and software engineer from Singapore, soon to begin my BSc in Computer Science at the University of Leeds (UK).  
 I also hold a Diploma in Applied Artificial Intelligence from Temasek Polytechnic
-
 ---
-
 ##  About Me
 
 -  Incoming CS undergrad @ University of Leeds (2025)
