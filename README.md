@@ -3,6 +3,7 @@
 
 I'm an aspiring AI and software engineer from Singapore, soon to begin my BSc in Computer Science at the University of Leeds (UK).  
 I also hold a Diploma in Applied Artificial Intelligence from Temasek Polytechnic
+
 ---
 ##  About Me
 
@@ -11,15 +12,6 @@ I also hold a Diploma in Applied Artificial Intelligence from Temasek Polytechni
 -  1-year internship at Oracle (Application Solution Engineer)
 -  Passionate about AI, NLP, and building impactful systems
 -  Exploring career paths in the tech/AI space in both Singapore and the UK
-
----
-
-## Certifications
-
-- Oracle Cloud Infrastructure (OCI) Foundations Associate  
-- Oracle APEX Developer Certified Specialist  
-- Oracle AI Fundamentals  
-- AWS Proficiency (EC2, S3, Lambda)
 
 ---
 
