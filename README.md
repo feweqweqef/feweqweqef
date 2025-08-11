@@ -3,7 +3,7 @@
 
 I'm a software engineer from Singapore.
 
-I recently graduated from polytechnic with a diploma in Applied Artificial Intelligence and I am currently pursuing my undergraduate in CS at the University of Leeds - UK
+I recently graduated from polytechnic with a diploma in Applied Artificial Intelligence and I am currently pursuing my undergraduate in CS at the University of Leeds - UK.
 I’m passionate about large-scale, impactful projects in **Machine Learning (ML)**, **Artificial Intelligence (AI)**, and **Deep Learning (DL)**. I also enjoy design-focused work such as **web development** and **user experience (UX)**.
 
 ---
@@ -13,7 +13,7 @@ I’m passionate about large-scale, impactful projects in **Machine Learning (ML
 - 🥈 **2nd Place** – IITSC x ASC Hackathon, Temasek Polytechnic  
 - 🏅 **Finalist** – Oracle MADHacks Hackathon
 
-## 🌐 Let's Connects:
+## 🌐 Let's Connect:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/gru8990) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itshafeezahhh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hafeezah-kasim-605890239) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hafeezahsg@gmail.com) 
 
 # 💻 Tech Stack:
