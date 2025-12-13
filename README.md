@@ -1,14 +1,9 @@
 
 # Hey, I'm Hafeezah
 
-I’m passionate about large-scale, impactful projects in **Machine Learning (ML)**, **Artificial Intelligence (AI)**, and **Deep Learning (DL)**. I also enjoy design-focused work such as **web development** and **user experience (UX)**.
+I’m passionate about large-scale, impactful projects in Machine Learning (ML) and Deep Learning (DL). I also enjoy design-focused work such as web development and user experience (UX).
 
 ---
-
-## 🏆 Hackathons
-
-- 🥈 **2nd Place** – IITSC x ASC Hackathon, Temasek Polytechnic  
-- 🏅 **Regional Finalist** – Oracle MADHacks Hackathon
 
 ## 🌐 Let's Connect:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/gru8990)[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hafeezah-kasim-605890239) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hafeezahsg@gmail.com) 
